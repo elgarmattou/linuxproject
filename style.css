@@ -61,5 +61,8 @@ footer{
 }
 footer h4{
   font-family: "Grenze Gotisch", serif;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
   color: #F2E6BD;
 }
