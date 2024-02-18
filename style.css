@@ -1,11 +1,11 @@
 html {
   height: 100%;
   width: 100%;
-  
+  cursor: cell;
 }
 body{
   background-image: url("wp4898259.webp");
-  
+  backdrop-filter: blur(2px);
   background-size: cover;
   background-repeat: repeat-y;
   margin: 0;
