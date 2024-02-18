@@ -59,8 +59,10 @@ footer{
   padding-top: 23px;
   height:70px;
 }
-footer h4{
+footer h4 a{
+  text-decoration: none;
   font-family: "Grenze Gotisch", serif;
   font-optical-sizing: auto;
   color: #F2E6BD;
+
 }
