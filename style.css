@@ -51,9 +51,8 @@ suca{
   display: flex;
 }
 footer{
-  background-color: #0f0f0f;
+  background-color: #080D04;
   text-align: center;
-  color: white;
   margin-left: 0px;
   margin-right: 0px;
   margin-top: 20px;
@@ -61,5 +60,6 @@ footer{
   height:70px;
 }
 footer h4{
-  font-family:Verdana, Geneva, Tahoma, sans-serif;
+  font-family: "Grenze Gotisch", serif;
+  color: #F2E6BD;
 }
