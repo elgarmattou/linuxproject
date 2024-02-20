@@ -39,5 +39,5 @@ function desk(){
 }
 function copyr() {
   alert("Copyright © 2024, ElGarmattou. All Rights Reserved.");
-  console.log("");
+  console.log("https://github.com/ryangarmattou/linuxproject");
 }
