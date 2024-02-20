@@ -37,3 +37,7 @@ function desk(){
   //pages=document.getElementById("pages")
   pages.innerHTML="This is the piece that the users actually interact with. There are many desktop environments to choose from (GNOME, Cinnamon, Mate, Pantheon, Enlightenment, KDE, Xfce, etc.). Each desktop environment includes built-in applications (such as file managers, configuration tools, web browsers, and games)."
 }
+function copyr() {
+  alert("Copyright © 2024, ElGarmattou. All Rights Reserved.");
+  console.log("");
+}

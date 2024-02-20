@@ -43,7 +43,7 @@ nav a.event{
   box-shadow: 1px 1px 5px black;
   color: black;
 }
-a:hover{
+nav a:hover{
   box-shadow: 1px 1px 5px #ffffff;
 }
 nav{
@@ -53,17 +53,18 @@ suca{
   display: flex;
 }
 footer{
-  background-color: #080D04 95%;
+  background-color: #080D04;
   backdrop-filter: blur(100px);
   text-align: center;
-  margin-left: 0px;
-  margin-right: 0px;
-  margin-top: 20px;
-  padding-top: 23px;
+  margin-top:20px;
+  padding-top: 3px;
   height:70px;
 }
-footer h4 a{
+footer h4 button{
   text-decoration: none;
+  background-color:transparent;
+  border:0px;
+  font-size: 20px;
   font-family: "Grenze Gotisch", serif;
   font-optical-sizing: auto;
   color: #F2E6BD;
