@@ -1,5 +1,11 @@
 //view port
+window.addEventListener("focus", function() {
+  document.title = "Linux";
+});
 
+window.addEventListener("blur", function() {
+  document.title = "Get Back";
+});
 //pieces
 function bootloader(){
   pages=document.getElementById("pages")
